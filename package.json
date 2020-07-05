@@ -1,0 +1,26 @@
+{
+  "name": "reactionrolebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrawHatHacker/ReactionRoleBot.git"
+  },
+  "author": "strawhathacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrawHatHacker/ReactionRoleBot/issues"
+  },
+  "homepage": "https://github.com/StrawHatHacker/ReactionRoleBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.20",
+    "nodemon": "^2.0.4",
+    "readdirp": "^3.4.0"
+  }
+}
